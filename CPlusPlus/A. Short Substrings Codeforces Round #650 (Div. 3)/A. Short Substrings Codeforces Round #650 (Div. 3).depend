@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601949383 source:c:\users\jianke\documents\michael\coding\cplusplus\a. short substrings codeforces round #650 (div. 3)\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<string>
+

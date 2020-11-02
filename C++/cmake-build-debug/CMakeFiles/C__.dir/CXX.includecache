@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jianke/Documents/Michael/Coding/C++/Hello World/coinStrip.cpp
+coinStrip.h
+C:/Users/Jianke/Documents/Michael/Coding/C++/Hello World/coinStrip.h
+
+C:/Users/Jianke/Documents/Michael/Coding/C++/Hello World/coinStrip.h
+
+C:/Users/Jianke/Documents/Michael/Coding/C++/Hello World/src/MichaelLiCoinStrip.cpp
+MichaelLiCoinStrip.h
+C:/Users/Jianke/Documents/Michael/Coding/C++/Hello World/src/MichaelLiCoinStrip.h
+
+C:/Users/Jianke/Documents/Michael/Coding/C++/Hello World/src/MichaelLiCoinStrip.h
+

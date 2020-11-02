@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602640414 source:c:\users\jianke\documents\michael\coding\codeforces\contests\a. digit game codeforces round #671 (div. 2)\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+

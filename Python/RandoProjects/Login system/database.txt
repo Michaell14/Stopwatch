@@ -1,0 +1,6 @@
+super:man
+acer:monitor
+mike:li
+teacher:student
+bob:builder
+notbob:bbb

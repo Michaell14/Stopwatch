@@ -43,7 +43,7 @@ function start(){
     print(timeToString(elapsedTime));
   }, 10); 
 
-  var stat3=document.getElementById("stat1");
+  var stat1=document.getElementById("stat1");
 
   setInterval(function printStats(){
     if (counter>0){
@@ -69,6 +69,10 @@ function reset(){
   elapsedTime = 0;
   counter=0;
   changeCounter();
+
+  var stat1=document.getElementById("stat1");
+  stat1.value="Average Time Per Question: "+timeToString(0);
+  stat1.innerHTML="Average Time Per Question: "+timeToString(0); 
 }
 
 function changeCounter(){
@@ -105,7 +109,7 @@ export default function Home() {
         <button className="button5" onClick={decreaseNum} id="decrease">--1</button>
       </div>
 
-      <h2 id="stat1">Average Time Per Question: 0</h2>
+      <h2 id="stat1">Average Time Per Question: 00:00:00</h2>
      
     </div>
   )
